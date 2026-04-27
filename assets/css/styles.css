@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  background: #fff5f7;
+}
+
+.hero {
+  padding: 60px 20px;
+}
+
+.confirmacion {
+  padding: 40px;
+  background: white;
+  border-radius: 20px;
+  margin: 20px;
+}
